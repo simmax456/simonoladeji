@@ -9,6 +9,6 @@ Determined to design and develop products/services people can use, i finally too
 It is amazing how people create things people use; and i want to be a part of that.🧮
 
 You can also find me on:
-@icon-twitter[twitter]()
-@icon-Linkedin[Linkedin](https://www.linkedin.com/in/simonoladeji/)
-@icon-instagram[Instagram]()
+@icon-twitter-square [twitter]()
+@icon-linkedin [Linkedin](https://www.linkedin.com/in/simonoladeji/)
+@icon-instagram [Instagram]()
